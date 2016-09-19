@@ -1,0 +1,17 @@
+.tableContainer {
+
+}
+
+.tableRow {
+  display: flex;
+  justify-content: space-around;
+}
+
+.tableColumn {
+  flex: 1;
+}
+
+.tableColumnHeader {
+  margin-bottom: 10px;
+  font-weight: 600;
+}
